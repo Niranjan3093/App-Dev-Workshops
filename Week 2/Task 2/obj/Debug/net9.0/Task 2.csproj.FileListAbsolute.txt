@@ -1,0 +1,14 @@
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\bin\Debug\net9.0\Task 2.exe
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\bin\Debug\net9.0\Task 2.deps.json
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\bin\Debug\net9.0\Task 2.runtimeconfig.json
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\bin\Debug\net9.0\Task 2.dll
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\bin\Debug\net9.0\Task 2.pdb
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfo.cs
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.dll
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\refint\Task 2.dll
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.pdb
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\Task 2.genruntimeconfig.cache
+C:\Users\Victus\Desktop\3rd Year\Projects\App Dev\Week 2\Task 2\obj\Debug\net9.0\ref\Task 2.dll
