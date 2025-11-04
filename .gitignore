@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.cache
+*.db
+*.vsidx
+*.suo
+*.user
+*.pdb
+*.exe
+*.dll
+*.shm
+*.wal
+
