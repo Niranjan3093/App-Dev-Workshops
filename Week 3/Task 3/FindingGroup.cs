@@ -10,17 +10,19 @@ namespace Task_3
     {
         public void FindingCompatibleAge()
         {
+
             Console.WriteLine("Finding Group using If-else");
 
             Console.Write("Enter your age: ");
-            int userAge;
-            bool isValid = int.TryParse(Console.ReadLine(), out userAge);
+            int userAge = Convert.ToInt32(Console.ReadLine());
 
-            if (!isValid)
-            {
-                Console.WriteLine("Invalid input. Please enter a valid age.");
-                //return;
-            }
+            //bool isValid = int.TryParse(Console.ReadLine(), out userAge);
+
+            //if (!isValid)
+            //{
+            //    Console.WriteLine("Invalid input. Please enter a valid age.");
+            //    //return;
+            //}
 
             if (userAge > 0 && userAge < 13)
             {
@@ -40,7 +42,11 @@ namespace Task_3
 
             Console.WriteLine("\nFinding Group using Switch Expression");
 
-            switch (userAge)
+
+            Console.Write("Enter your age again: ");
+            int switchUserAge = Convert.ToInt32(Console.ReadLine());
+
+            switch (switchUserAge)
             {
                 case > 0 and < 13:
                     Console.WriteLine("You are a child.");
