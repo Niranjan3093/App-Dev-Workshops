@@ -1,0 +1,16 @@
+﻿@page "/profile"
+
+<h2>Student Profile</h2>
+
+<img src="@photoPath" width="200" style="border-radius:10px;" />
+
+<p><b>Name:</b> @studentName</p>
+<p><b>Course:</b> @courseName</p>
+<p><b>Batch:</b> @batchYear</p>
+
+@code {
+    string photoPath = "images/niranjan.png"; 
+    string studentName = "Niranjan Deuja";
+    string courseName = ".NET MAUI Hybrid Training";
+    string batchYear = "2025";
+}
